@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats-neon-five-10.vercel.app/api/top-langs/?username=jakbtg&layout=compact&theme=tokyonight&exclude_repo=ML-exercises&langs_count=8&card_width=495)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakbtg&theme=tokyonight&card_width=350"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakbtg&theme=tokyonight"/>
