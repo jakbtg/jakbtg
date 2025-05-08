@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi I'm Jak 🤙</h1> -->
 # Hi I'm Jak 🤙
 
-Currently working as a Data Scientist for [Mespac](https://mespac.space/), employing AI and ML models to metocean data to serve the development of offshore wind and ocean energy platforms 🛰💨🌊.
+Currently working as a Data Scientist for [Mespac](https://mespac.space/), employing AI and ML models to metocean data to serve the development of offshore wind and ocean energy platforms 🛰🌬️🌊.
 
 <!-- ![jakbtg's GitHub stats](https://github-readme-stats-neon-five-10.vercel.app/api?username=jakbtg&show_icons=true&theme=tokyonight&count_private=true&card_width=495)
 
